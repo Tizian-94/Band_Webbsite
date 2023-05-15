@@ -10,6 +10,7 @@ import SingleProduct from './pages/SingleProduct';
 import Dashboard from './pages/Dashboard';
 import Login from './pages/Login';
 import Gallery from './pages/Gallery';
+import Thankyou from './pages/Thankyou';
 import Contactus from './pages/Contactus';
 import ProtectedRoute from './pages/ProtectedRoute';
 import SharedProductLayout from './pages/SharedProductLayout';
@@ -23,6 +24,7 @@ function App() {
       <Route index element={<Home/>}/>
       <Route path='about' element={<About />}/>
       <Route path='gallery' element={<Gallery />}/>
+      <Route path='thank-you' element={<Thankyou />}/>
       <Route path='contactus' element={<Contactus />}/>
       <Route path="songs" element={<SharedProductLayout />} >
         <Route index element={<Products />} />

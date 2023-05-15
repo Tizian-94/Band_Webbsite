@@ -1,4 +1,5 @@
-import Footer_Songs from '../components/Footer_Songs';
+import ContactForm from '../components/ContactForm';
+import StyledFooter_contact from '../components/StyledFooter_contact';
 
 
 const Contactus = () => {
@@ -29,8 +30,18 @@ const Contactus = () => {
         </h3>
         <div id="hero_div">
           </div>
-    </section>
+      <div>
+      <h1 id="contactus_text">
+        Contact Us
+        </h1>
+      <ContactForm />
+      
     </div>
+    
+    </section>
+    <StyledFooter_contact />
+    </div>
+    
     </>
     
   );
