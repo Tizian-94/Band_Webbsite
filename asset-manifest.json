@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Tizian-94/Band_Webbsite.git/Home/static/css/main.e023dbfb.css",
-    "main.js": "/Tizian-94/Band_Webbsite.git/Home/static/js/main.2ac037cd.js",
-    "static/js/981.7aa06749.chunk.js": "/Tizian-94/Band_Webbsite.git/Home/static/js/981.7aa06749.chunk.js",
-    "static/media/summoning.mp3": "/Tizian-94/Band_Webbsite.git/Home/static/media/summoning.8332f96eb690d601200d.mp3",
-    "static/media/bathory.mp3": "/Tizian-94/Band_Webbsite.git/Home/static/media/bathory.b2725e27dbb4e0c3d0e0.mp3",
-    "static/media/Apocalypse_bg.gif": "/Tizian-94/Band_Webbsite.git/Home/static/media/Apocalypse_bg.bc31264a0fd0ea458328.gif",
-    "static/media/bodom.mp3": "/Tizian-94/Band_Webbsite.git/Home/static/media/bodom.acf3316ebd1134169353.mp3",
-    "static/media/aura.mp3": "/Tizian-94/Band_Webbsite.git/Home/static/media/aura.4424f5c5a298e07877d4.mp3",
-    "static/media/typo.mp3": "/Tizian-94/Band_Webbsite.git/Home/static/media/typo.25c80bf219099cd64530.mp3",
-    "static/media/testament.mp3": "/Tizian-94/Band_Webbsite.git/Home/static/media/testament.c4fe690455deb045b338.mp3",
-    "static/media/ObZen.mp3": "/Tizian-94/Band_Webbsite.git/Home/static/media/ObZen.9a7f7c04380f4724b42e.mp3",
-    "static/media/belphegor.mp3": "/Tizian-94/Band_Webbsite.git/Home/static/media/belphegor.0a34ee08631a9caf7002.mp3",
-    "static/media/devildriver.mp3": "/Tizian-94/Band_Webbsite.git/Home/static/media/devildriver.2003ba437ac6a6f73a5a.mp3",
-    "static/media/doom.mp3": "/Tizian-94/Band_Webbsite.git/Home/static/media/doom.60cf26ac6086a4542ce1.mp3",
-    "static/media/wasteland_img.png": "/Tizian-94/Band_Webbsite.git/Home/static/media/wasteland_img.c42dc4e070ee9a5e8c87.png",
-    "static/media/smear_top.png": "/Tizian-94/Band_Webbsite.git/Home/static/media/smear_top.760c556427c8c39676a2.png",
-    "index.html": "/Tizian-94/Band_Webbsite.git/Home/index.html",
-    "main.e023dbfb.css.map": "/Tizian-94/Band_Webbsite.git/Home/static/css/main.e023dbfb.css.map",
-    "main.2ac037cd.js.map": "/Tizian-94/Band_Webbsite.git/Home/static/js/main.2ac037cd.js.map",
-    "981.7aa06749.chunk.js.map": "/Tizian-94/Band_Webbsite.git/Home/static/js/981.7aa06749.chunk.js.map"
+    "main.css": "/Tizian-94/Band_Webbsite.git/react-router-6-tutorial-main/static/css/main.97d51fe5.css",
+    "main.js": "/Tizian-94/Band_Webbsite.git/react-router-6-tutorial-main/static/js/main.407acaa3.js",
+    "static/js/981.7aa06749.chunk.js": "/Tizian-94/Band_Webbsite.git/react-router-6-tutorial-main/static/js/981.7aa06749.chunk.js",
+    "static/media/summoning.mp3": "/Tizian-94/Band_Webbsite.git/react-router-6-tutorial-main/static/media/summoning.8332f96eb690d601200d.mp3",
+    "static/media/bathory.mp3": "/Tizian-94/Band_Webbsite.git/react-router-6-tutorial-main/static/media/bathory.b2725e27dbb4e0c3d0e0.mp3",
+    "static/media/Apocalypse_bg.gif": "/Tizian-94/Band_Webbsite.git/react-router-6-tutorial-main/static/media/Apocalypse_bg.bc31264a0fd0ea458328.gif",
+    "static/media/bodom.mp3": "/Tizian-94/Band_Webbsite.git/react-router-6-tutorial-main/static/media/bodom.acf3316ebd1134169353.mp3",
+    "static/media/aura.mp3": "/Tizian-94/Band_Webbsite.git/react-router-6-tutorial-main/static/media/aura.4424f5c5a298e07877d4.mp3",
+    "static/media/typo.mp3": "/Tizian-94/Band_Webbsite.git/react-router-6-tutorial-main/static/media/typo.25c80bf219099cd64530.mp3",
+    "static/media/testament.mp3": "/Tizian-94/Band_Webbsite.git/react-router-6-tutorial-main/static/media/testament.c4fe690455deb045b338.mp3",
+    "static/media/ObZen.mp3": "/Tizian-94/Band_Webbsite.git/react-router-6-tutorial-main/static/media/ObZen.9a7f7c04380f4724b42e.mp3",
+    "static/media/belphegor.mp3": "/Tizian-94/Band_Webbsite.git/react-router-6-tutorial-main/static/media/belphegor.0a34ee08631a9caf7002.mp3",
+    "static/media/devildriver.mp3": "/Tizian-94/Band_Webbsite.git/react-router-6-tutorial-main/static/media/devildriver.2003ba437ac6a6f73a5a.mp3",
+    "static/media/doom.mp3": "/Tizian-94/Band_Webbsite.git/react-router-6-tutorial-main/static/media/doom.60cf26ac6086a4542ce1.mp3",
+    "static/media/wasteland_img.png": "/Tizian-94/Band_Webbsite.git/react-router-6-tutorial-main/static/media/wasteland_img.c42dc4e070ee9a5e8c87.png",
+    "static/media/smear_top.png": "/Tizian-94/Band_Webbsite.git/react-router-6-tutorial-main/static/media/smear_top.760c556427c8c39676a2.png",
+    "index.html": "/Tizian-94/Band_Webbsite.git/react-router-6-tutorial-main/index.html",
+    "main.97d51fe5.css.map": "/Tizian-94/Band_Webbsite.git/react-router-6-tutorial-main/static/css/main.97d51fe5.css.map",
+    "main.407acaa3.js.map": "/Tizian-94/Band_Webbsite.git/react-router-6-tutorial-main/static/js/main.407acaa3.js.map",
+    "981.7aa06749.chunk.js.map": "/Tizian-94/Band_Webbsite.git/react-router-6-tutorial-main/static/js/981.7aa06749.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e023dbfb.css",
-    "static/js/main.2ac037cd.js"
+    "static/css/main.97d51fe5.css",
+    "static/js/main.407acaa3.js"
   ]
 }
