@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.250f9c81.css",
-    "main.js": "/static/js/main.b7c77845.js",
-    "static/js/981.7aa06749.chunk.js": "/static/js/981.7aa06749.chunk.js",
-    "static/media/summoning.mp3": "/static/media/summoning.8332f96eb690d601200d.mp3",
-    "static/media/bathory.mp3": "/static/media/bathory.b2725e27dbb4e0c3d0e0.mp3",
-    "static/media/Apocalypse_bg.gif": "/static/media/Apocalypse_bg.bc31264a0fd0ea458328.gif",
-    "static/media/bodom.mp3": "/static/media/bodom.acf3316ebd1134169353.mp3",
-    "static/media/aura.mp3": "/static/media/aura.4424f5c5a298e07877d4.mp3",
-    "static/media/typo.mp3": "/static/media/typo.25c80bf219099cd64530.mp3",
-    "static/media/testament.mp3": "/static/media/testament.c4fe690455deb045b338.mp3",
-    "static/media/ObZen.mp3": "/static/media/ObZen.9a7f7c04380f4724b42e.mp3",
-    "static/media/belphegor.mp3": "/static/media/belphegor.0a34ee08631a9caf7002.mp3",
-    "static/media/devildriver.mp3": "/static/media/devildriver.2003ba437ac6a6f73a5a.mp3",
-    "static/media/doom.mp3": "/static/media/doom.60cf26ac6086a4542ce1.mp3",
-    "static/media/wasteland_img.png": "/static/media/wasteland_img.c42dc4e070ee9a5e8c87.png",
-    "static/media/smear_top.png": "/static/media/smear_top.760c556427c8c39676a2.png",
-    "index.html": "/index.html",
-    "main.250f9c81.css.map": "/static/css/main.250f9c81.css.map",
-    "main.b7c77845.js.map": "/static/js/main.b7c77845.js.map",
-    "981.7aa06749.chunk.js.map": "/static/js/981.7aa06749.chunk.js.map"
+    "main.css": "/Band_Webbsite/static/css/main.761be35f.css",
+    "main.js": "/Band_Webbsite/static/js/main.68857e0a.js",
+    "static/js/981.7aa06749.chunk.js": "/Band_Webbsite/static/js/981.7aa06749.chunk.js",
+    "static/media/summoning.mp3": "/Band_Webbsite/static/media/summoning.8332f96eb690d601200d.mp3",
+    "static/media/bathory.mp3": "/Band_Webbsite/static/media/bathory.b2725e27dbb4e0c3d0e0.mp3",
+    "static/media/Apocalypse_bg.gif": "/Band_Webbsite/static/media/Apocalypse_bg.bc31264a0fd0ea458328.gif",
+    "static/media/bodom.mp3": "/Band_Webbsite/static/media/bodom.acf3316ebd1134169353.mp3",
+    "static/media/aura.mp3": "/Band_Webbsite/static/media/aura.4424f5c5a298e07877d4.mp3",
+    "static/media/typo.mp3": "/Band_Webbsite/static/media/typo.25c80bf219099cd64530.mp3",
+    "static/media/testament.mp3": "/Band_Webbsite/static/media/testament.c4fe690455deb045b338.mp3",
+    "static/media/ObZen.mp3": "/Band_Webbsite/static/media/ObZen.9a7f7c04380f4724b42e.mp3",
+    "static/media/belphegor.mp3": "/Band_Webbsite/static/media/belphegor.0a34ee08631a9caf7002.mp3",
+    "static/media/devildriver.mp3": "/Band_Webbsite/static/media/devildriver.2003ba437ac6a6f73a5a.mp3",
+    "static/media/doom.mp3": "/Band_Webbsite/static/media/doom.60cf26ac6086a4542ce1.mp3",
+    "static/media/wasteland_img.png": "/Band_Webbsite/static/media/wasteland_img.c42dc4e070ee9a5e8c87.png",
+    "static/media/smear_top.png": "/Band_Webbsite/static/media/smear_top.760c556427c8c39676a2.png",
+    "index.html": "/Band_Webbsite/index.html",
+    "main.761be35f.css.map": "/Band_Webbsite/static/css/main.761be35f.css.map",
+    "main.68857e0a.js.map": "/Band_Webbsite/static/js/main.68857e0a.js.map",
+    "981.7aa06749.chunk.js.map": "/Band_Webbsite/static/js/981.7aa06749.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.250f9c81.css",
-    "static/js/main.b7c77845.js"
+    "static/css/main.761be35f.css",
+    "static/js/main.68857e0a.js"
   ]
 }
